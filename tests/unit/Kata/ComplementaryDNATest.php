@@ -6,7 +6,7 @@ use App\Kata\ComplementaryDNA;
 use Codeception\Test\Unit;
 
 /**
- * @author Paweł Bednarczyk <pawel.bednarczyk@enp.pl>
+ * @author Paweł Bednarczyk <ibednar88@gmail.com>
  */
 class ComplementaryDNATest extends Unit
 {
